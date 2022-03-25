@@ -6,7 +6,7 @@ requests==2.27.1
 requests-oauth==0.4.1
 
 us==2.0.2
-census==0.5
+census==0.8.18
 
 django==4.0.3
 dj-database-url==0.5.0

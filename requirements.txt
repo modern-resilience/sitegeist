@@ -2,7 +2,7 @@ git+git://github.com/sunlightlabs/saucebrush.git#egg=saucebrush
 South==1.0.2
 raven==6.10.0
 
-requests==2.27.1
+requests==2.29.0
 requests-oauth==0.4.1
 
 us==2.0.2

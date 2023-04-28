@@ -9,7 +9,7 @@ us==2.0.2
 census==0.8.18
 
 django==4.0.3
-dj-database-url==0.5.0
+dj-database-url==2.0.0
 pymongo==4.0.2
 
 # boundary service requirements
